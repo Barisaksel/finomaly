@@ -1,4 +1,11 @@
+
 # Finomaly
+## PyPI & Source Code
+
+**PyPI:** https://pypi.org/project/finomaly/
+
+**Source Code:** https://github.com/Barisaksel/finomaly
+
 
 Finomaly is a modular, open-source Python library for anomaly detection in financial transactions. It supports both rule-based and machine learning-based detection, multi-language reporting, and professional reporting formats.
 
