@@ -3,6 +3,14 @@
     "en": "Model is not trained yet. Please train with fit() first.",
     "tr": "Model henüz eğitilmedi. Lütfen önce fit() ile eğitin."
   },
+  "fit_missing": {
+    "en": "Both texts and labels are required for fitting.",
+    "tr": "Eğitim için hem metinler hem de etiketler gereklidir."
+  },
+  "predict_missing": {
+    "en": "Texts are required for prediction.",
+    "tr": "Tahmin için metinler gereklidir."
+  },
   "column_missing": {
     "en": "Column '{col}' not found in Excel.",
     "tr": "Excel'de '{col}' adında bir sütun yok."
@@ -22,5 +30,9 @@
   "behavior_deviation": {
     "en": "BehaviorDeviation",
     "tr": "Davranış Sapması"
+  },
+  "input_type_error": {
+    "en": "Input must be a list, Series, single string, or Excel file path with column name.",
+    "tr": "Girdi bir liste, Series, tek bir metin veya Excel dosya yolu ve sütun adı olmalıdır."
   }
 }
